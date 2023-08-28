@@ -5,13 +5,13 @@
 // Change the variable again to store your mother's name.
 // Print the value stored in the variable name
 
-var Name = "Md Danish"
-console.log(Name)
+var Name = "Md Danish";
+console.log(Name);
 
-var Father_name = "Md Matlub Reza"
-var Name = Father_name
-console.log(Name)
+var Father_name = "Md Matlub Reza";
+var Name = Father_name;
+console.log(Name);
 
-var Mother_name = "Asmina Khatoon"
-var Name = Mother_name
-console.log(Name)
+var Mother_name = "Asmina Khatoon";
+var Name = Mother_name;
+console.log(Name);
